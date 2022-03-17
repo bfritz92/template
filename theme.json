@@ -286,7 +286,6 @@
         "typography": {
           "fontFamily": "var(--wp--preset--font-family--system-font)",
           "fontWeight": "700",
-          "textTransform": "uppercase",
           "lineHeight": "var(--wp--custom--typography--line-height--normal)",
           "fontSize": "var(--wp--preset--font-size--medium)"
         }
@@ -295,7 +294,6 @@
         "typography": {
           "fontFamily": "var(--wp--preset--font-family--system-font)",
           "fontWeight": "700",
-          "textTransform": "uppercase",
           "lineHeight": "var(--wp--custom--typography--line-height--normal)",
           "fontSize": "var(--wp--preset--font-size--medium)"
         }
