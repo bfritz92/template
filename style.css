@@ -147,4 +147,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-cover__inner-container {
   max-width: 1000px;
 }
+
+.wp-block-group.alignfull {
+  margin-top: 0 !important;
+}
 /*# sourceMappingURL=style.css.map */
