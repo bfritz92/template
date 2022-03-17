@@ -155,13 +155,13 @@
       "dropCap": false,
       "fontFamilies": [
         {
-          "fontFamily": "Roboto Condensed,\"Helvetica Neue\",sans-serif",
+          "fontFamily": "\"Roboto Condensed\", serif",
           "name": "System Font",
           "slug": "system-font"
         },
         {
-          "fontFamily": "\"Source Serif Pro\", serif",
-          "name": "Source Serif Pro",
+          "fontFamily": "\"Roboto Condensed\", serif",
+          "name": "Roboto Condensed",
           "slug": "source-serif-pro"
         }
       ],
