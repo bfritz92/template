@@ -161,3 +161,10 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-group.alignfull {
   margin-top: 0 !important;
 }
+
+.front-page--three-col .wp-block-column .wp-block-image figure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 232px;
+}
