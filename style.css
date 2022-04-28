@@ -152,4 +152,17 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-group.alignfull {
   margin-top: 0 !important;
 }
+
+.front-page--three-col .wp-block-column .wp-block-image figure {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  min-height: 232px;
+}
 /*# sourceMappingURL=style.css.map */
